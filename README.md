@@ -1,3 +1,5 @@
+[![Python 3.7](https://img.shields.io/badge/python-3.7-sucess.svg)](https://www.python.org/downloads/release/python-379/)
+
 # Pandora
 
 This is the official repository of the Pandora Renderfarmmanager.
